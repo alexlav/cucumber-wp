@@ -1,2 +1,3 @@
 # cucumber-wp
-Acceptance Tests with cucumber and maven
+First project.
+Acceptance Tests with cucumber and maven.
